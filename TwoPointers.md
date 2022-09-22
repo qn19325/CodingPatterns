@@ -17,3 +17,9 @@ def isPairSum(A, N, X):
       
   return 0
 ```
+
+Could be:
+```
+while i < j:
+while i < len(A)
+```
